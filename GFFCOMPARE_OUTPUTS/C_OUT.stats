@@ -1,0 +1,10 @@
+# gffcompare v0.11.5 | Command line was:
+#./gffcompare -o C_OUT C.gff3
+#
+
+#= Summary for dataset: C.gff3 
+#     Query mRNAs :   51444 in   40686 loci  (41653 multi-exon transcripts)
+#            (5982 multi-transcript loci, ~1.3 transcripts per locus)
+
+ Total union super-loci across all input datasets: 40686 
+51444 out of 51444 consensus transcripts written in C_OUT.combined.gtf (0 discarded as redundant)
